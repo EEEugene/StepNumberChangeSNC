@@ -1,5 +1,5 @@
 # StepNumberChangeSNC
-该函数有借鉴https://www.iloveu.top/index.php/2021/03/30/misport-steps-tool 中的图片，代码为公众号：Gwen博客 提供，最后由我写出全部总结的方法，并上传至github中，如有侵权，请立即联系本人删除。
+该函数有借鉴https://www.iloveu.top/index.php/2021/03/30/misport-steps-tool 中的图片，代码为公众号：Gwen博客 提供，最后由本人写出总结的方法，并上传至github中，如有侵权，请立即联系本人删除。
 
 该函数是通过小米运动app进行修改，从而实现微信支付宝的运动步数修改，再使用腾讯云的定时器，实现全自动每日随机修改步数（20000-29999）
 
