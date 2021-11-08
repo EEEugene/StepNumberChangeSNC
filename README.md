@@ -34,7 +34,7 @@
 
 ## 个人使用建议：
 
-**我本人每天刷步数主要是为了两个目的：**
+**我本人每天刷步数主要是为了三个目的：**
 
 1、蚂蚁森林每天296g的能量 
 
@@ -42,4 +42,10 @@
 
 3、微信运动捐步数捐款
 
-<img src="https://s3.bmp.ovh/imgs/2021/11/5cbc397f85aacf53.jpg" width="30%">
+**能够用代码来为世界做一些善事，我认为是一件非常值得的事情，希望大家也可以用代码为世界多做一些贡献。**
+
+**最后，送各位一句话，勿以善小而不为，勿以恶小而为之。**
+
+___Don't to small and not for good, it is a sin to steal a pin___
+
+<img src="https://s3.bmp.ovh/imgs/2021/11/5cbc397f85aacf53.jpg" width="30%"> <img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20211108234005.jpg" width="30%">
