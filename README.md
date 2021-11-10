@@ -56,3 +56,14 @@
 ___Don't to small and not for good, it is a sin to steal a pin___
 
 <img src="https://s3.bmp.ovh/imgs/2021/11/5cbc397f85aacf53.jpg" width="30%"> <img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20211108234005.jpg" width="35%"><img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20211108235102.jpg" width="30%">
+
+<hr>
+
+<blockquote>
+  
+  <strong>感谢以下作者：</strong>
+  
+   * [网友博客提供的图片](https://www.iloveu.top/index.php/2021/03/30/misport-steps-tool)
+  
+  * 微信公众号：Gwen博客
+ </blockquote>
