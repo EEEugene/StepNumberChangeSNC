@@ -1,5 +1,5 @@
 # StepNumberChangeSNC
-## 👀特别声明：
+## 👀特别声明(Important Clause)：
 **1、请勿将本仓库的任何内容用于商业或非法目的，否则后果自负。**
 
 2、间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, 本人对于由此引起的任何隐私泄漏或其他后果概不负责。
@@ -10,7 +10,7 @@
 
 <hr>
 
-## 🔨使用说明： 
+## 🔨使用说明(Instructions)： 
 * 该函数有借鉴 [网友的博客](https://www.iloveu.top/index.php/2021/03/30/misport-steps-tool) 中的图片，代码为(公众号：Gwen博客)提供，最后由本人写出总结的方法，并上传至github中，如有侵权，请立即联系本人删除。
 
 * 该函数是通过小米运动app进行修改，从而实现微信支付宝的运动步数修改，再使用腾讯云的定时器，实现全自动每日随机修改步数（20000-29999）
@@ -37,7 +37,7 @@
 
 <hr>
 
-## ✍🏻️ 个人使用建议：
+## ✍🏻️ 个人使用建议(Personal Proposal)：
 
 **我本人每天刷步数主要是为了三个目的：**
 
@@ -55,7 +55,7 @@
 
 ___Don't to small and not for good, it is a sin to steal a pin___
 
-### 📷截图
+### 📷截图(Screenshots)
 
 <hr>
 
@@ -70,4 +70,6 @@ ___Don't to small and not for good, it is a sin to steal a pin___
    * [网友博客提供的图片](https://www.iloveu.top/index.php/2021/03/30/misport-steps-tool)
   
   * 微信公众号：Gwen博客
+  
+  * Thanks a lot
  </blockquote>
