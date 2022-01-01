@@ -43,11 +43,11 @@
 
 **我本人每天刷步数主要是为了三个目的：**
 
-1、蚂蚁森林每天296g的能量 
+1、蚂蚁森林每天296g的能量；
 
-2、支付宝，运动，每日捐款
+2、支付宝，运动，行走捐，捐步做公益；
 
-3、微信运动捐步数捐款
+3、微信运动->步数排行榜->我的主页，下滑至底部->捐赠步数。
 
 **能够用代码来为世界做一些善事，我认为是一件很有意义的事情，代码让我感觉到我对这个世界有那么一丝丝贡献，希望大家也可以用代码为世界多做一些贡献。**
 
@@ -61,7 +61,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 
 <hr>
 
-<img src="https://s3.bmp.ovh/imgs/2021/11/5cbc397f85aacf53.jpg" width="30%"> <img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/bs1202.jpg"  width="30%"><img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20211108235102.jpg" width="30%">
+<img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20220101152712.jpg" width="35%"> <img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/bs1202.jpg" width="30%"><img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20220101152716.jpg" width="30%">
 
 <hr>
 
