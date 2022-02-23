@@ -61,8 +61,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 
 <hr>
 
-<img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20220101152712.jpg" width="30%"> <img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/
-StepUpdate.jpg" width="30%"> <img src="https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/Update0223.jpg" width="30%">
+<img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/Update2.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/StepUpdate.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/Update0223.jpg" width="30%">
 
 <hr>
 
