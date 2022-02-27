@@ -1,4 +1,5 @@
 # StepNumberChangeSNC
+<hr>
 ## 👀特别声明(Important Clause)：
 **1、请勿将本仓库的任何内容用于商业或非法目的，否则后果自负。**
 
@@ -57,11 +58,13 @@
 
 ___Don't to small and not for good, it is a sin to steal a pin___
 
+<hr>
+
 ### 📷截图(Screenshots)
 
 <hr>
-
-<img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/Update2.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/StepUpdate.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/Update0223.jpg" width="30%">
+<blockquote>
+<img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/step0227.jpg" width="35%">   <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/StepUpdate.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/Update0223.jpg" width="30%"> </blockquote>
 
 <hr>
 
