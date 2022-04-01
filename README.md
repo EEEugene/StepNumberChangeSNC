@@ -53,7 +53,7 @@
 
 2、支付宝->运动->行走捐->捐步做公益；
 
-3、微信运动->步数排行榜->我的主页，下滑至底部->捐赠步数。
+3、微信运动->步数排行榜->我的主页，下滑至底部->捐赠步数->一块走小程序。
 
 **能够用代码来为世界做一些善事，我认为是一件很有意义的事情，代码让我感觉到我对这个世界有那么一丝丝贡献，希望大家也可以用代码为世界多做一些贡献。**
 
@@ -69,7 +69,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 
 <hr>
 <blockquote>
-<img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/step0314.png" width="35%">   <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/StepUpdate.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/step03321.png" width="30%"> </blockquote>
+<img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/step0314.png" width="35%">   <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/stemp0401.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blog-img/main/step03321.png" width="30%"> </blockquote>
 
 <hr>
 
