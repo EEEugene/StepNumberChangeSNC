@@ -92,4 +92,12 @@ ___Don't to small and not for good, it is a sin to steal a pin___
   * Thanks a lot
  </blockquote>
  
+ ### Star 历史(Star History)
+ 
+ <hr>
+ 
+[![Star History Chart](https://api.star-history.com/svg?repos=EEEugene/StepNumberChangeSNC&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+ 
+ <hr>
+ 
  <h1 align="center">点个star再走吧🌟🌟🌟</h1>
