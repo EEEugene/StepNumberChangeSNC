@@ -63,10 +63,6 @@
 
 （目前微信运动好像捐不了了，直接点开一块走小程序即可）
 
-<img src="https://raw.githubusercontent.com/EEEugene/blogImg/main/微信截图_20220529112915.png" width="30%">
-
-上图为腾讯公益中可以兑换的礼品，每日限量，需要每日早上9点抢购一下，算一些小羊毛吧，本人亲测可以兑换到袋子（单日限量50）
-
 **能够用代码来为世界做一些善事，我认为是一件很有意义的事情，代码让我感觉到我对这个世界有那么一丝丝贡献，希望大家也可以用代码为世界多做一些贡献。**
 
 <hr>
@@ -82,7 +78,12 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 <hr>
 <blockquote>
 <img src="https://raw.githubusercontent.com/EEEugene/blogImg/main/step0314.png" width="35%">   <img src="https://raw.githubusercontent.com/EEEugene/blogImg/main/stepalipay0430.jpg" width="30%"> <img src="https://raw.githubusercontent.com/EEEugene/blogImg/main/step0515.png" width="33%"> </blockquote>
+<div align=center>
+<img src="https://raw.githubusercontent.com/EEEugene/blogImg/main/微信截图_20220529115641.png" width="30%">  
+<img src="https://raw.githubusercontent.com/EEEugene/blogImg/main/微信截图_20220529112915.png" width="30%">
 
+上图为腾讯公益中可以兑换的礼品，每日限量，需要每日早上9点抢购一下，算一些小羊毛吧，本人亲测可以兑换到袋子（单日限量50）
+</div>
 <hr>
 
 <blockquote>
