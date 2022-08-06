@@ -89,6 +89,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/微信截图_20220612142253.png" width="30%">  
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/sc0612.png" width="30%">
+  <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/redflower.png" width="35%"> 
 
 上图为腾讯公益中可以兑换的礼品，每日限量，需要每日早上9点抢购一下，算一些小羊毛吧，本人亲测可以兑换到袋子（单日限量50）
 </div>
