@@ -21,7 +21,7 @@
 <hr>
 
 ## 🔨使用说明(Instructions)： 
-* 该函数有借鉴 [网友的博客](https://www.iloveu.top/index.php/2021/03/30/misport-steps-tool) 中的图片，代码为(公众号：Gwen博客)提供，最后由本人写出总结的方法，并上传至github中，如有侵权，请立即联系本人删除。
+* 该函数有借鉴 [网友的博客](https://www.iloveu.top/) 中的图片，代码为(公众号：Gwen博客)提供，最后由本人写出总结的方法，并上传至github中，如有侵权，请立即联系本人删除。
 
 【腾讯文档】SNC README https://docs.qq.com/doc/DWmFLWU1MV2NpcVNQ 将使用说明写在了腾讯文档中（图文），有需要的朋友可以点开链接进行查看，以下为文字版。
 
@@ -100,7 +100,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
   
   <h2>❤感谢以下作者：</h2>
   
-   * [网友博客提供的图片](https://www.iloveu.top/index.php/2021/03/30/misport-steps-tool)
+   * [网友博客提供的图片](https://www.iloveu.top/)
   
   * 微信公众号：Gwen博客
   
