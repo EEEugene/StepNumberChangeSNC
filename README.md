@@ -1,5 +1,7 @@
 # StepNumberChange(SNC)
 
+2023.03.02更新 微信也失效，本项目可以差不多宣告寄了...
+
 2023.02.24更新 支付宝失效，目前只有微信可用
 
 ## 🚶‍♂️项目简介(Project Introduction)：
@@ -85,7 +87,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 <hr>
 <blockquote>
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step0414.png" width="35%">  
-<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step0201.jpg" width="30%">
+<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/ste0302.jpg" width="30%">
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step0203.jpg" width="30%">
 
 
