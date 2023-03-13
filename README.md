@@ -65,7 +65,7 @@
 
 3、微信运动->步数排行榜->我的主页，下滑至底部->捐赠步数->一块走小程序。（一块走还可以领个小红花，小红花可以兑换一些礼品，微信每天可捐赠额度大约50w左右）
 
-（目前微信运动好像捐不了了，直接点开一块走小程序即可）
+（目前微信运动捐不了了，直接点开一块走小程序即可）
 
 **能够用代码来为世界做一些善事，我认为是一件很有意义的事情，代码让我感觉到我对这个世界有那么一丝丝贡献，希望大家也可以用代码为世界多做一些贡献。**
 
@@ -85,7 +85,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 <hr>
 <blockquote>
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step0414.png" width="35%">  
-<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/ste0302.jpg" width="30%">
+<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/ste0313.jpg" width="30%">
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step0307.jpg" width="30%">
 
 
