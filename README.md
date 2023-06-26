@@ -121,6 +121,10 @@ ___Don't to small and not for good, it is a sin to steal a pin___
  
  ### 支持(Support)
 
+<div align=center>
+
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/zfb.jpg" width="30%">
+<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/wx06.png" width="30%">
+</div>
  
  <h1 align="center">点个star再走吧🌟🌟🌟</h1>
