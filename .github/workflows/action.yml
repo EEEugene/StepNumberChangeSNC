@@ -1,0 +1,37 @@
+name: python
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '00 10 * * *'
+
+jobs:
+  StepNumberChangeSNC:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Use pyton
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.bushu/pip
+          key: ${{ runner.os }}-bushu-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-bushu-
+      - name: Install requirements
+        run: |
+          pip install -r ./requirements.txt
+      - name: bushu
+        run: python3 bushu.py
+        env:
+          USER_PHONE: ${{ secrets.USER_PHONE }}
+          USER_PWD: ${{ secrets.USER_PWD }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_USER_ID: ${{ secrets.TG_USER_ID }}
+          # STEP: 10000
+          STEP_MIN: 10000
+          STEP_MAX: 30000
