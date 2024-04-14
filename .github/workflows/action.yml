@@ -1,11 +1,11 @@
-name: python
+name: bushu
 on:
   workflow_dispatch:
   schedule:
     - cron: '00 10 * * *'
 
 jobs:
-  StepNumberChangeSNC:
+  bushu:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -26,7 +26,7 @@ jobs:
         run: |
           pip install -r ./requirements.txt
       - name: bushu
-        run: python3 bushu.py
+        run: python3 index.py
         env:
           USER_PHONE: ${{ secrets.USER_PHONE }}
           USER_PWD: ${{ secrets.USER_PWD }}
