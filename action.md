@@ -11,7 +11,7 @@
    1. Fork 本仓库
    2. 在你自己 Fork 的仓库进行设置`Settings - Actions - General - Allow all actions and reusable workflows`，别忘了`save`
    3. 然后`Settings - Secrets - Actions - New repository secret`，按下面例子新建几个`secrets`：
-
+#### secrets 变量
    <table>
     <tr>
      <td>Name</td>
@@ -19,15 +19,15 @@
     </tr>
     <tr>
      <td>USER_PHONE</td>
-     <td>18899996666</td>
+     <td></td>
     </tr>
     <tr>
      <td>USER_PWD</td>
-     <td>abc123</td>
+     <td></td>
     </tr>
     <tr>
-     <td>STEP</td>
-     <td>10000</td>
+     <td>TG_BOT_TOKEN</td>
+     <td></td>
     </tr>
      <td>STEP</td>
      <td>10000</td>
@@ -44,16 +44,37 @@
      <td>TG_USER_ID</td>
      <td></td>
     </tr>
+    <tr>
+     <td>TX_QQ</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>STEP</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>STEP_MIN</td>
+     <td>10000</td>
+    </tr>
+    <tr>
+     <td>STEP_MAX</td>
+     <td>30000</td>
+    </tr>
    </table>
    
-   （`USER_PHONE`是注册Zepp Life app的手机号，`USER_PWD`是账号密码，**`STEP_MIN`必须小于`STEP_MAX`**，最后修改的步数为二者之间随机数）
-   
-   确认一切无误就可以去`Actions`里`Run workflow`
+-`USER_PHONE`是注册Zepp Life app的手机号，`USER_PWD`是账号密码，**`STEP_MIN`必须小于`STEP_MAX`**，最后修改的步数为二者之间随机数
 
-<p align="right">（<a href="#修改微信运动步数">回到顶部</a>）</p>
-  
-#### GitHubAction设置每日定时执行
-直接修改[这个yml文件](/.github/workflows/action.yml)，把以下两句解除注释：
+- 开启 tg 消息推送,需自行填入`TG_BOT_TOKEN` 和 `TG_USER_ID`
+
+- 开启 qq 消息推送,需自行填入`TX_QQ` 和 `SEND_KEY`。文档见[Qmsg 酱 API 文档
+  ](https://qmsg.zendee.cn/docs/api/)
+- 默认开启随机步数 `STEP_MIN` 和 `STEP_MAX`，随机步数范围在`STEP_MIN`到`STEP_MAX`之间，默认为 10000-30000
+
+确认一切无误就可以去`Actions`里`Run workflow`
+
+#### GitHubAction 设置每日定时执行
+
+直接修改[这个 yml 文件](/.github/workflows/action.yml)，把以下两句解除注释：
 
 ```
   schedule:

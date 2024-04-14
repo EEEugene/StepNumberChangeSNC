@@ -123,9 +123,27 @@ def main(user, passwd, step):
     #print(response)
     result = f"{user[:4]}****{user[-4:]}: [{now}] 修改步数（{step}）"+ response['message']
     print(result)
-    qqtalk = 'https://qmsg.zendee.cn/send/KYE?msg=' + "修改步数：" + step + "  " + response[
-        'message'] + '&qq=QQ'
-    requests.get(qqtalk)
+    # 定义 URL 的不同部分
+    base_url = 'https://qmsg.zendee.cn/send/'
+    message_prefix = '修改步数：'
+    qq_suffix = '&qq='
+
+    # 检查是否同时提供了 SEND_KEY 和 TX_QQ
+    if SEND_KEY and TX_QQ:
+        qqtalk = f'{base_url}{str(SEND_KEY)}?msg={message_prefix}{step}  {response["message"]}{qq_suffix}{str(TX_QQ)}'
+
+        try:
+            response = requests.get(qqtalk)
+            json_data = response.json()
+            if 'success' in json_data and json_data['success']:
+                print("zendee 消息推送成功")
+            else:
+                print("zendee 消息推送失败：", json_data.get('reason', '未知原因'))
+        except Exception as e:
+            # 打印请求失败的日志，并做容错处理
+            print("zendee 消息推送失败:", e)
+    else:
+       print("未提供 TX_QQ 和 SEND_KEY 跳过zendee消息推送")
     return result
 #修改上方的KYE和QQ
 # qqtalk = 'https://qmsg.zendee.cn/send/输入你的kye?msg=' + "修改步数：" + step + "  " + response[
@@ -160,7 +178,11 @@ if __name__ == "__main__":
     # telegram bot token 自行申请
     TG_BOT_TOKEN = os.environ.get('TG_BOT_TOKEN', None)   
     # telegram 用户ID
-    TG_USER_ID = os.environ.get('TG_USER_ID', None)      
+    TG_USER_ID = os.environ.get('TG_USER_ID', None)   
+    # qq号码
+    TX_QQ = os.environ.get('TX_QQ', None)     
+    # 
+    SEND_KEY = os.environ.get('SEND_KEY', None)     
     # 检查用户手机号和密码是否为空，如果为空则退出程序
     if user is None or passwd is None:
         logging.error("Error: USER_PHONE or USER_PWD environment variable is not set.")
