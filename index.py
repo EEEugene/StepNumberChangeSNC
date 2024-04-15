@@ -23,7 +23,7 @@ def telegram_bot(title, content):
     send_data = {"chat_id": tg_user_id, "text": title +
                  '\n\n'+content, "disable_web_page_preview": "true"}
     response = requests.post(
-        url='https://nakoruru.h7ml.cn/proxy/api.telegram.org/bot%s/sendMessage' % (tg_bot_token), data=send_data)
+        url='https://api.telegram.org/bot%s/sendMessage' % (tg_bot_token), data=send_data)
     print(response.text)
 
 now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
@@ -192,4 +192,5 @@ if __name__ == "__main__":
     if step_min is None or step_max is None or step is None:
         step = str(random.randint(20000, 29999))
     print('步数为:',step)
-    main(user, passwd, step)    
+    push = main(user, passwd, step)    
+    telegram_bot("小米运动", push)
