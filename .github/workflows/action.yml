@@ -2,7 +2,7 @@ name: bushu
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 10 * * *'
+    - cron: '00 16 * * *' # UTC时间的16:00，对应中国时间8:00
 
 jobs:
   bushu:
@@ -28,12 +28,12 @@ jobs:
       - name: bushu
         run: python3 index.py
         env:
-          USER_PHONE: ${{ secrets.USER_PHONE }}
-          USER_PWD: ${{ secrets.USER_PWD }}
+          USER_PHONE: ${{ secrets.XIAOMI_USER_PHONE }}
+          USER_PWD: ${{ secrets.XIAOMI_USER_PWD }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
-          TX_QQ: ${{ secrets.TX_QQ }}
-          SEND_KEY: ${{ secrets.SEND_KEY }}
+          TX_QQ: ${{ secrets.QMSG_QQ }}
+          SEND_KEY: ${{ secrets.QMSG_SEND_KEY }}
           # STEP: 10000
           STEP_MIN: 10000
           STEP_MAX: 30000
