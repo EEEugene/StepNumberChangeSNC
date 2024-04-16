@@ -23,8 +23,8 @@ jobs:
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
           upstream_sync_repo: EEEugene/StepNumberChangeSNC
-          upstream_sync_branch: main
-          target_sync_branch: main
+          upstream_sync_branch: feat/action
+          target_sync_branch: feat/action
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}  tests instead of the true action!!
           test_mode: false
 
