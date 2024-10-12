@@ -134,9 +134,9 @@ def main(user, passwd, step):
 #        'message'] + '&qq=输入你的qq号'
 #获取时间戳
 def get_time():
-    url = 'http://api.m.taobao.com/rest/api3.do?api=mtop.common.getTimestamp'
-    response = requests.get(url,headers=headers).json()
-    t = response['data']['t']
+    url = 'http://worldtimeapi.org/api/timezone/Asia/Shanghai'
+    response = requests.get(url, headers=headers).json()
+    t = str(response['unixtime'])+'000'
     return t
 
 #获取app_token
