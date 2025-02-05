@@ -1,5 +1,7 @@
 # StepNumberChange(SNC)
 
+2024.10.12更新，修改淘宝时间戳报错问题，目前代码已可以正常使用
+
 2023.03.05更新，手机号登录方式失效，可以直接用邮箱登录，支付宝微信都可以修改，在账号处填写邮箱即可，代码已修改
 
 ## 🚶‍♂️项目简介(Project Introduction)：
@@ -88,7 +90,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 <blockquote>
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step0414.png" width="35%">  
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step250204.jpg" width="30%">
-<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step250109.jpg" width="30%">
+<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step250205.jpg" width="30%">
 
 
 <div align=center>
