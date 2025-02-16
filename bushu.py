@@ -134,9 +134,9 @@ def main(user, passwd, step):
 #        'message'] + '&qq=输入你的qq号'
 #获取时间戳
 def get_time():
-    url = 'http://worldtimeapi.org/api/timezone/Asia/Shanghai'
+    url = "http://mshopact.vivo.com.cn/tool/config"
     response = requests.get(url, headers=headers).json()
-    t = str(response['unixtime'])+'000'
+    t = response["data"]["nowTime"]
     return t
 
 #获取app_token
