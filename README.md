@@ -97,7 +97,7 @@ ___Don't to small and not for good, it is a sin to steal a pin___
 <hr>
 <blockquote>
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step0414.png" width="35%">  
-<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step260803.jpg" width="30%">
+<img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step260902.jpg" width="30%">
 <img src="https://sszblog.oss-cn-shenzhen.aliyuncs.com/img/step260804.jpg" width="30%">
 
 
